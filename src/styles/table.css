@@ -1,0 +1,10 @@
+.table-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 50px;
+    height: 90vh;
+    
+    justify-content: center;
+    align-items: center;
+}
